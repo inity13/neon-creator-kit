@@ -1,0 +1,103 @@
+{
+  "store": "creator-kit",
+  "generated_at": "2026-03-13T07:35:43.942620+00:00",
+  "package_count": 12,
+  "packages": [
+    {
+      "product": "content-planner-system",
+      "zip_name": "content-planner-system-f1bf3e02c38d.zip",
+      "file_count": 8,
+      "size_bytes": 30174,
+      "sha256": "fca39771c1b85e557d0592e3a4665ff56206c56f8d0c5e19f0c2cf9709d1dfd5",
+      "fingerprint": "f1bf3e02c38d"
+    },
+    {
+      "product": "creator-kit-starter-bundle",
+      "zip_name": "creator-kit-starter-bundle-adc7fc2b974b.zip",
+      "file_count": 3,
+      "size_bytes": 3976,
+      "sha256": "8add972402596c889370cc15038d981bc849988b0080aa5631a8cacf7fa0f778",
+      "fingerprint": "adc7fc2b974b"
+    },
+    {
+      "product": "creator-kit-ultimate-bundle",
+      "zip_name": "creator-kit-ultimate-bundle-e141eacde571.zip",
+      "file_count": 3,
+      "size_bytes": 6443,
+      "sha256": "8b7ab24b31221f8069e95ac4cc97bc51d10dea96a437dd7b96e9872f78f4e958",
+      "fingerprint": "e141eacde571"
+    },
+    {
+      "product": "discord-server-template",
+      "zip_name": "discord-server-template-752f7da96af9.zip",
+      "file_count": 13,
+      "size_bytes": 23183,
+      "sha256": "86afe90291a75cf24307feb99ecb35ddb3140579c2a84b74a3366a00014c48d9",
+      "fingerprint": "752f7da96af9"
+    },
+    {
+      "product": "emote-creator-toolkit",
+      "zip_name": "emote-creator-toolkit-5b7c878a592b.zip",
+      "file_count": 16,
+      "size_bytes": 26095,
+      "sha256": "a10f6c043bb46d46baf4b8800131e5ad674c5370cfdc1ba9eaa46ce69f1a1fe4",
+      "fingerprint": "5b7c878a592b"
+    },
+    {
+      "product": "neon-stream-overlay",
+      "zip_name": "neon-stream-overlay-ceded4a56bd8.zip",
+      "file_count": 18,
+      "size_bytes": 35003,
+      "sha256": "187a400bb0764006e4a7958eb7d96695064af31c90761793172de8c03439bb7c",
+      "fingerprint": "ceded4a56bd8"
+    },
+    {
+      "product": "obs-scene-collection",
+      "zip_name": "obs-scene-collection-e973c2509210.zip",
+      "file_count": 5,
+      "size_bytes": 8223,
+      "sha256": "650cc647f0aeb656513805900e4fa05239b8ad74c20949712bd54d44b4996c80",
+      "fingerprint": "e973c2509210"
+    },
+    {
+      "product": "social-media-template-kit",
+      "zip_name": "social-media-template-kit-9234426a468d.zip",
+      "file_count": 19,
+      "size_bytes": 29912,
+      "sha256": "9fb67f08606abf06cf245852f8e52943e7ecfb259cb291ee1735d84e6a58220e",
+      "fingerprint": "9234426a468d"
+    },
+    {
+      "product": "stream-alerts-pack",
+      "zip_name": "stream-alerts-pack-9335257920ee.zip",
+      "file_count": 11,
+      "size_bytes": 20333,
+      "sha256": "e027ecbe49877b61c59153425e39d44677df120d90ba08e9737f056d08e85fba",
+      "fingerprint": "9335257920ee"
+    },
+    {
+      "product": "stream-schedule-maker",
+      "zip_name": "stream-schedule-maker-8a9c21e5cbf2.zip",
+      "file_count": 8,
+      "size_bytes": 16442,
+      "sha256": "729b4b1edfd80668ea5d3baf9c376f081df1f35bf07d64a1e7749edc6890a830",
+      "fingerprint": "8a9c21e5cbf2"
+    },
+    {
+      "product": "thumbnail-template-pack",
+      "zip_name": "thumbnail-template-pack-af8a5163a526.zip",
+      "file_count": 23,
+      "size_bytes": 27001,
+      "sha256": "355db270d6747109bf92172cbeda5d366fbfbe6fe51bcd4f4c170087846c54ee",
+      "fingerprint": "af8a5163a526"
+    },
+    {
+      "product": "youtube-channel-art-pack",
+      "zip_name": "youtube-channel-art-pack-95b44ac9006e.zip",
+      "file_count": 9,
+      "size_bytes": 15522,
+      "sha256": "ea0d005efa4a71bb830534dbe56eab85bb35159b1bd82b29e69ed331f013dfaf",
+      "fingerprint": "95b44ac9006e"
+    }
+  ]
+}
